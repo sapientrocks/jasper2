@@ -1,18 +1,11 @@
 ## Jasper2
 
-[![Build Status](https://github.com/jekyllt/jasper2/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/jasper2/actions/workflows/jekyll_build.yml)
+[![Build Status](https://github.com/sapientrocks/jasper2/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/jasper2/actions/workflows/jekyll_build.yml)
 [![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper2)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper2)
 
 This is a full-featured port of Ghost's default theme [Casper](https://github.com/tryghost/casper)
 [v2.1.9](https://github.com/TryGhost/Casper/releases/tag/2.1.9) for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
-
-## Live Demo
-
-[Ghost's Casper](https://demo.ghost.io) // [Jasper2](https://jekyllt.github.io/jasper2)
-
-![home page](https://raw.githubusercontent.com/jekyllt/jasper2/master/assets/screenshot-desktop.jpg)
-
 
 ## Features
 
