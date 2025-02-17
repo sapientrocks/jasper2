@@ -1,76 +1,22 @@
-ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyllt.github.io/jasper2/
-  url: jekyllt.github.io/jasper2
-  bio: The professional publishing platform
-  picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
-  cover: False
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
-  facebook: False
-  twitter: erisds
-  cover: assets/images/hannah-cover.jpg
-john:
-  username: john
-  name: John O'Nolan
-  location: On a plane
-  url_full: http://john.onolan.org/
-  url: john.onolan.org
-  bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
-  picture: assets/images/john.jpg
+campey:
+  username: campey
+  name: David Campey
+  location: Cape Town, South Africa
+  url_full: https://www.linkedin.com/in/campey/
+  url: linkedin.com/in/campey
+  bio: :David Campey has been enjoyineering as a software developer and start-up tech builder in Cape Town for 20+ years, founder of afrolabs.co.za and coderlevelup.org, and a founding member of SAPIENT. :David has grown into a role leading the growth of Code Club and through that supporting the roll out of the new Coding & Robotics Curriculum in South Africa. His turtle-bots project typifies how we can work to make robotics more exciting and accessible.
+  picture: assets/images/soyuz.jpg
   facebook: False
   twitter: False
   cover: False
-lewis:
-  username: lewis
-  name: Lewis Carroll
-  location: Cheshire, England
-  url_full: False
-  url: False
-  bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
-  picture: assets/images/lewis.jpeg
-  facebook: False
-  twitter: False
-  cover: False
-abraham:
-  username: abraham
-  name: Abraham Lincoln
-  location: Kentucky, USA
-  url_full: False
-  url: False
-  bio: I was the 16th president of the USA until I was assassinated in April of 1865. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
-  picture: assets/images/abraham.jpg
-  facebook: False
-  twitter: False
-  cover: False
-edgar:
-  username: edgar
-  name: Edgar Rice Burroughs
-  location: Chicago, Illinois
-  url_full: False
-  url: False
-  bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
-  picture: assets/images/edgar.gif
-  facebook: False
-  twitter: False
-  cover: False
-martin:
-  username: martin
-  name: Martin Luther King
-  location: Memphis, Tennessee
-  url_full: False
-  url: False
-  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  picture: assets/images/martin.jpg
+mhuber:
+  username: mhuber
+  name: Matthew Huber
+  location: Durban, South Africa
+  url_full: https://sites.google.com/uwc.ac.za/mshuber/home
+  url: sites.google.com/uwc.ac.za/mshuber/home
+  bio: Dr. Matthew S. Huber is a Research Scientist at the Planetary Science Institute in Tucson, Arizona, a Senior Lecturer at the University of Kwa-Zulu Natal in Durban, South Africa, and a founding member of SAPIENT.  He has run workshops on impact craters for NASA, organized conferences for the European Astrobiology Institute, and has lectured on impact craters for many public organizations. His research has been published in high-ranking journals. His work has been featured in Newsweek, Fox News, the Washington Post, EOS, and Live Science, among other outlets. He has participated in numerous radio interviews.  Dr. Huber received his doctorate in planetary science from the University of Vienna and then worked at the Vrije Universitat Brussel in Belgium before relocating to South Africa. 
+  picture: assets/images/ries_quarry.jpg
   facebook: False
   twitter: False
   cover: False
